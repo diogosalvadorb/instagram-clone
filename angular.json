@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "instagram-clone"
+  "defaultProject": "instagram-clone",
+  "cli": {
+    "analytics": false
+  }
 }
