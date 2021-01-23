@@ -13,8 +13,7 @@ import {Imagem } from './image.model'
       state('visivel', style({
         opacity: 1
       })), 
-      transition('oculto => visivel', animate('1s ease-in')),
-      transition('visivel => oculto', animate('1s ease-in'))
+      transition('oculto <=> visivel', animate('1s ease-in')),
     ])
   ]
 })
