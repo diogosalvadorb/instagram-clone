@@ -1,6 +1,8 @@
 # Instagram
 Clone do FrontEnd da página do Instagram 
 
+<img src="https://media.giphy.com/media/1aaBVCgF6ji3q5qcCC/giphy.gif" />
+
 ## Instalação
 
 1. clone o repositório `git clone git@github.com:diogosalvadorb/instagram-clone.git`
